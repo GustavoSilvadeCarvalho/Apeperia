@@ -30,4 +30,4 @@ O site foi projetado para se adaptar perfeitamente a diferentes dispositivos, ga
 
 ## 📷 Prévia
 
-![Prévia do site](./imgs/apeperia.png)
+![Prévia do site](./img/apeperia.png)
