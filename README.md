@@ -30,10 +30,4 @@ O site foi projetado para se adaptar perfeitamente a diferentes dispositivos, ga
 
 ## 📷 Prévia
 
-> Adicione uma captura de tela ou gif do site aqui, se possível.
-
-## 🔧 Como Visualizar o Projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/apeperia.git
+![Prévia do site](./imgs/apeperia.png)
